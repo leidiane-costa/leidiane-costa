@@ -1,11 +1,4 @@
 ### Olá! Eu sou a Leidiane Costa. 
-
-
-- 👩🏾‍💻 Iniciando meus estudos no Front-End
-- 🎨 UX/UI Design básico
-- 📚 Estudando HTML e CSS
-- 🙋🏾‍♀️ Pronouns: ela/dela
-
 <div>
 <a href="https://github.com/leidiane-costa">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leidiane-costa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -19,7 +12,6 @@
 ##
 
 <div>
-  <a href = "mailto:leidiane.C0574@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
  ![Snake animation](https://github.com/leidiane-costa/leidiane-costa/blob/output/github-contribution-grid-snake.svg)
  
