@@ -1,4 +1,4 @@
-### Olá! Me chamo Leidiane Costa. 
+### Olá! Eu sou a Leidiane Costa. 
 
 
 - 👩🏾‍💻 Iniciando meus estudos no Front-End
