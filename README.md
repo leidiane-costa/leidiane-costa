@@ -1,9 +1,3 @@
-## 👩‍💻 Leidiane Costa
-
-Documentando minha trajetória em QA – do manual à automação – e meus primeiros passos em cibersegurança.
-
----
-
 ## 📖 Acompanhe minha jornada
 
 📓 **[Diário de estudos - Jornada QA](https://github.com/leidiane-costa/jornada-qa)**
