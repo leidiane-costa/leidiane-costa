@@ -13,6 +13,6 @@ Atualizado constantemente com:
 
 - Testes de software
 - Testes de API (Postman)
-- OWASP Top 10 (iniciante)
+- OWASP Top 10 
 
 ---
